@@ -1,3 +1,9 @@
+### Link to the github repo
+
+The project contains two branches (master and dev or development)
+
+https://github.com/Nierowheezy/udagram-image-filter
+
 # Udagram Image Filtering Microservice
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
@@ -53,3 +59,7 @@ Add your own domain name and have it point to the running services (try adding a
 ### Link to the running elastic beanstalk deployment
 
 http://imagefilterudagram-env.eba-4hppvrdp.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.unsplash.com/photo-1563089145-599997674d42?ixlib=rb-4.0.3%26ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto=format%26fit=crop%26w=870%26q=80
+
+### Link to the github repo
+
+https://github.com/Nierowheezy/udagram-image-filter
